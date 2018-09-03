@@ -36,8 +36,8 @@ This project (in particular the `rootlesscontainers.proto` file and generated
 sources) are all licensed under the Apache License 2.0.
 
 ```
-rootlesscontainers.proto
-Copyright (C) 2018 Rootless Containers authors
+rootlesscontainers-proto: persistent rootless filesystem emulation
+Copyright (C) 2018 Rootless Containers Authors
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
