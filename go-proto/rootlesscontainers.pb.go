@@ -4,7 +4,7 @@
 /*
 Package rootlesscontainers is a generated protocol buffer package.
 
-The rootlesscontainers package is maintained at https://rootlesscontaine.rs/ .
+The rootlesscontainers package is maintained at https://github.com/rootless-containers/proto .
 If you want to extend the resource definition, please open a PR.
 
 It is generated from these files:

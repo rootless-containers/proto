@@ -15,7 +15,7 @@
 
 syntax = "proto3";
 
-// The rootlesscontainers package is maintained at https://rootlesscontaine.rs/ .
+// The rootlesscontainers package is maintained at https://github.com/rootless-containers/proto .
 // If you want to extend the resource definition, please open a PR.
 package rootlesscontainers;
 
