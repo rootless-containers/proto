@@ -19,6 +19,8 @@ syntax = "proto3";
 // If you want to extend the resource definition, please open a PR.
 package rootlesscontainers;
 
+option go_package = "github.com/rootless-containers/proto/go-proto";
+
 // Resource defines the schema for "user.rootlesscontainers" xattr values.
 // The resource can be used as a persistent storage for emulated `chown(2)` syscall.
 // Syscall emulators SHOULD try to hide this xattr from the emulated environment.
