@@ -22,13 +22,13 @@ The following is a list of known projects that support
   manner). Version `0.4.0` and later have full `user.rootlesscontainers`
   support, both with `umoci unpack` and `umoci repack`.
 
-* [Our fork of PRoot][proot-fork] with a few patches applied. `PRoot` allows
+* [The Apptainer fork of proot][proot-fork] with a few patches applied. `PRoot` allows
   for full emulation (through `ptrace` with optional `seccomp` acceleration) of
   all privilege operations that would produce "strange" results inside a
   rootless container. This is a perfect fit for rootless containers.
 
 [umoci]: https://github.com/openSUSE/umoci
-[proot-fork]: https://github.com/rootless-containers/PRoot
+[proot-fork]: https://github.com/apptainer/PRoot
 
 ### License ###
 
